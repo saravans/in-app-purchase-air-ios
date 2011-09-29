@@ -1,4 +1,7 @@
 #summary The API that will let AIR developer use In-App Purchases functionality on iOS. It is recommended to read the [http://developer.apple.com/library/ios/#documentation/NetworkingInternet/Conceptual/StoreKitGuide/Introduction/Introduction.html](StoreKit Programming Guide) before using this API. As there are things that are needed to be done in iTunes Connect portal in order to test and use this functionality.
+#labels In-AppPurchase,StoreKit,AIR,iOS,Actionscript
+
+The API that will let AIR developer use In-App Purchases functionality on iOS. It is recommended to read the [http://developer.apple.com/library/ios/#documentation/NetworkingInternet/Conceptual/StoreKitGuide/Introduction/Introduction.html](StoreKit Programming Guide) before using this API. As there are things that are needed to be done in iTunes Connect portal in order to test and use this functionality.
 
 =AS API=
 <code language="Actionscript">
