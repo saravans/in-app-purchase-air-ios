@@ -17,6 +17,6 @@
 
 </code>
 
-  # While packaging provide the -extdir switch at the end of the ADT Package command for eg -extdir <Dir containing ane file>.
+  # While packaging provide the -extdir switch at the end of the ADT Package command for eg -extdir <Dir containing ane file>. For more Information on packging ipa using command line see http://www.riaspace.com/2011/03/packaging-air-application-for-ios-devices-with-adt-command-and-ant-script/ (ADT is a tool that comes with AIR SDK. You can find it in [AIR SDK]/bin/adt)
    
   # For more info see the ADC Article links on homepage.
